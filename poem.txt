@@ -8,3 +8,7 @@ orange
 green
 yellow
 indigo
+
+
+New Whole Thing :D
+I am learining GitHub, ayeeee!!
