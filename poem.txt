@@ -7,3 +7,4 @@ unicorn
 orange
 green
 yellow
+indigo
